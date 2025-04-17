@@ -9,4 +9,10 @@ sky:
   alioss:
     endpoint: oss-cn-hangzhou.aliyuncs.com
     access-key-id: LTAI5t5ZCfHUQaGSajUUsFvw
+    
     bucket-name: web-joe
+  redis:
+    host: localhost
+    port: 6379
+    password: '031106'
+    database: 8
